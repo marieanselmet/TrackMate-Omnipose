@@ -9,7 +9,7 @@ It requires Omnipose to be installed on your system and working independently. T
 Omnipose is a segmentation algorithm based on Deep-Learning techniques, and inspired from the Cellpose architecture. Omnipose is well suited for bacterial cell segmentation, and achieves remarkable performances on mixed bacterial cultures, antibiotic-treated cells and cells of elongated or branched morphology.
 
 If you use the Omnipose TrackMate module for your research, please also cite the Omnipose paper:
-[Cutler, K.J., Stringer, C., Lo, T.W. et al. Omnipose: a high-precision morphology-independent solution for bacterial cell segmentation. Nat Methods 19, 1438–1448 (2022). https://doi.org/10.1038/s41592-022-01639-4](https://www.nature.com/articles/s41592-022-01639-4)
+[Cutler, K.J., Stringer, C., Lo, T.W. et al. Omnipose: a high-precision morphology-independent solution for bacterial cell segmentation. Nat Methods 19, 1438–1448 (2022).] (https://doi.org/10.1038/s41592-022-01639-4](https://www.nature.com/articles/s41592-022-01639-4)
 
 
 
