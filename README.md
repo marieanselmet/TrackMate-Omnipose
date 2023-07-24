@@ -23,7 +23,7 @@ https://github.com/marieanselmet/TrackMate-Omnipose/assets/32811540/3c2365c9-8d1
 
 This code works with the Omnipose version 0.3.6. It doesn't work with the last version of Omnipose.
 
-To install Omnipose, you can refer directly to the installation guide provided on the [Omnipose repository](https://github.com/kevinjohncutler/omnipose).
+To install Omnipose, you can refer directly to the installation guide provided on the [Omnipose repository(https://github.com/kevinjohncutler/omnipose#how-to-install-omnipose).
 
 An example Windows installation working on GPU:
 ```
